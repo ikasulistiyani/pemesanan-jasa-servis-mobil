@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/my-service-mobil/class diagram" timestamp="1461766519588" />
+    </filemarks>
     <jumps />
     <registers>
       <register name="1" type="4">
